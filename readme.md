@@ -1,4 +1,4 @@
-# Three.js
+# 3D Helmet
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
