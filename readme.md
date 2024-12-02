@@ -49,9 +49,6 @@ Le modèle 3D du casque a été entièrement conçu sur **Blender**, avec un soi
 
 1. **Téléchargez le projet** :
    
-   Ou clonez ce dépôt sur votre machine locale.
-   ```bash
-   git clone https://github.com/votre-utilisateur/fish-ocean-project.git
 2. **Installez les dépendances** :  
    Ouvrez un terminal dans le répertoire du projet et exécutez :  
    ```bash
